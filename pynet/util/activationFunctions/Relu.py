@@ -1,5 +1,5 @@
 import torch as t
-from ActivationFunction import ActivationFunction
+from .ActivationFunction import ActivationFunction
 
 
 class Relu(ActivationFunction):
